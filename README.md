@@ -30,6 +30,8 @@ This is an appication that can be used to organize a simple work day. It shows a
 
 ## Usage
 
+Deployed and working application:
+<img width="1440" alt="Screenshot 2022-12-14 at 7 14 47 PM" src="https://user-images.githubusercontent.com/117124864/207742862-eb1f55b6-e3e4-4d50-a898-1a997bd20cdc.png">
 
 
 ## License
